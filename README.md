@@ -7,6 +7,9 @@ The cloud is all about elasticity, so your monitoring solution should also be fl
 
 Please look at the App wiki page for more information. https://github.com/CDSLab/Velocity2015/wiki/About-the-Project
 
+You can find the presentation deck here:
+http://www.slideshare.net/RakeshRanjan39/velocity2015-talk
+
 #### Presenters:
 
 ##### Rakesh Ranjan
